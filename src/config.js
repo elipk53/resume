@@ -4,7 +4,7 @@ module.exports = {
     'Eli Perkins is a Software Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Eli Perkins, Software developer, Software engineer, Frontend developer, Web developer',
-  // siteUrl: 'https://brandonbyrne.net/',
+  siteUrl: 'https://brandonbyrne.net/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',

@@ -1,11 +1,11 @@
 ---
 date: '4'
 title: 'Software Engineer'
-company: 'Self Employee'
-range: 'February 2023 - Present'
+company: 'Upwork'
+range: 'November 2023 - Present'
 ---
 
-- CDesigned application architecture and developed web application from scratch using React, Angular, Node.js, TypeScript, and more.
+- Designed application architecture and developed web application from scratch using React, Vue, Node.js, TypeScript, and more.
 
 - Created scalable and reusable components, implemented responsive design, and integrated state and data flow with server-side technologies.
 

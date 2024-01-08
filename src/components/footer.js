@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/elipk53"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brandon Byrne</div>
+          <div>Designed &amp; Built by Eli Perkins</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

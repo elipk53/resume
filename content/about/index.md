@@ -2,15 +2,14 @@
 title: 'About Me'
 avatar: 'me.jpeg'
 skills:
-  - React
+  - React/Next.js/Gatsby
   - Angular (2 - 16)
-  - Vue
-  - Node
+  - Vue/Nuxt.js/Vuex
+  - Node/Express/Nest.js
   - JavaScript
   - TypeScript
-  - Python
-  - Django
-  - Flask
+  - Python/Django/Flask
+  - Web3/Metamask/NFT
   - Tailwind CSS
   - Styled Components
   - Material UI
@@ -18,6 +17,11 @@ skills:
   - HTML/CSS
 ---
 
-As a seasoned Senior Software Engineer with over 8 years of specialized experience in web and mobile development, I am a highly motivated and result-driven professional. My attention to detail and commitment to meeting deadlines while ensuring top-notch client satisfaction set me apart. I am passionate about creating complex applications that solve real-world problems for millions of users.
+I am a passionate and hardworking senior-level full-stack developer seeking to join an innovative team to develop responsive web applications, tools, and products. I am always eager to learn and work with the latest technologies and enjoy solving complex problems with intuitive software solutions.
 
-As a Software Engineer, I will manage your project from start to finish and set up custom hosting and domains. Communication is key to me, and I will ensure regular updates and transparency throughout the project. With my skills and expertise, I am confident in my ability to deliver high-quality projects that exceed your expectations.
+Responsibility
+
+- Prior experience working remotely as an effective member of a team
+- Comfortable working with individuals from diverse cultural backgrounds
+- Contributing to a collaborative, dynamic, and diverse team
+- Effective communication skills

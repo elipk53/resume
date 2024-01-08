@@ -1,13 +1,16 @@
 ---
-date: '2'
+date: '1'
 title: 'Software Engineer'
 company: 'Scopic Software'
-range: 'February 2017 - September 2019'
+range: 'April 2014 - October 2016'
 url: 'https://scopicsoftware.com/'
 ---
 
 - Built scalable and reusable component using Storybook
-- Integrated Plaid and payment gateway integrations to enable seamless transactions and investment management.
-- Developed a universal search feature for a customer-facing analytics application that allowed all of the application's data entities to be searched instantly within a single interface.
-- Worked on multiple projects, gaining experience in different domains and industries, and developing problem-solving skills and understanding of business requirements.
-- Continuously expanding skills in different technologies and eager to take on new challenges.
+- Collaborating with designers and stakeholders to ensure website functionality and usability
+- Building responsive and accessible user interfaces
+- Implementing web forms and data validation
+- Integrating third-party APIs and services
+- Writing optimized SQL queries to manage relational databases
+- Debugging and troubleshooting issues across different browsers and devices
+- Applying industry best practices and standards, such as SEO and performance optimization
