@@ -1,6 +1,6 @@
 ---
-date: '7'
-title: 'Modern Financial Calculators & Digital Banking Integrations'
+date: '2'
+title: 'Chimney - Modern Financial Calculators & Digital Banking Integrations'
 cover: 'chimney.png'
 external: 'https://chimney.io/'
 tech:

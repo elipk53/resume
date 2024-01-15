@@ -1,5 +1,5 @@
 ---
-date: '8'
+date: '4'
 title: 'EarthLink'
 cover: 'EarthLink.png'
 external: 'https://www.earthlink.net/
@@ -14,9 +14,7 @@ tech:
   - API Integration
   - Tailwind CSS
   - SCSS
-  - Cloudflare
-  - Google Analytics
-  - Facebook Pixel
+
 showInProjects: true
 ---
 

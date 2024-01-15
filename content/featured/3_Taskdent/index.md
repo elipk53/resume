@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '7'
 title: 'Medical business management platform - TaskDent'
 cover: 'TaskDent.jpg'
 external: 'https://www.taskdent.com/'
