@@ -1,18 +1,19 @@
 ---
-date: '8'
-title: 'PASSES'
+date: '7'
+title: 'Passes'
 cover: 'passes.png'
-external: 'https://www.passes.com'
+external: 'https://www.passes.com/'
 tech:
   - React
   - Next.js
-  - TypeScript
   - JavaScript
-  - Tailwind CSS
-  - Stream Chat
-  - Crypto JS
+  - TypeScript
+  - Styled Components
+  - SCSS
   - Node.js
   - Express
+  - Twilio API
+  - API Integration
 showInProjects: true
 ---
 

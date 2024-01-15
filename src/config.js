@@ -18,14 +18,14 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/elipk53',
     },
-    // {
-    //   name: 'Linkedin',
-    //   url: 'https://www.linkedin.com/in/brabyrne/',
-    // },
-    // {
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/brabyrne',
-    // },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/eliperkins53/',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/EliPerkins4021',
+    },
   ],
 
   navLinks: [
