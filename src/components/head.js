@@ -23,7 +23,7 @@ const Head = ({ metadata }) => (
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
-    <link rel="shortcut icon" href={favicon} />
+    {/* <link rel="shortcut icon" href={favicon} /> */}
     <link rel="canonical" href="https://chandrikadeb7.github.io" />
 
     <meta name="description" content={metadata.description} />
@@ -61,7 +61,7 @@ const Head = ({ metadata }) => (
     <link rel="apple-touch-icon" sizes="152x152" href={appleIcon152x152} />
     <link rel="apple-touch-icon" sizes="180x180" href={appleIcon180x180} />
     <link rel="icon" type="image/png" sizes="192x192" href={androidIcon192x192} />
-    <link rel="icon" type="image/png" sizes="32x32" href={favicon32x32} />
+    {/* <link rel="icon" type="image/png" sizes="32x32" href={favicon32x32} /> */}
     <meta name="msapplication-TileColor" content={config.colors.navy} />
     <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.colors.navy} />
