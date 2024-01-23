@@ -110,7 +110,6 @@ const ArchivePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Archive | Eli Perkins</title>
-        {/* <link rel="canonical" href="https://chandrikadeb7.github.io/archive" /> */}
       </Helmet>
 
       <StyledMainContainer>
